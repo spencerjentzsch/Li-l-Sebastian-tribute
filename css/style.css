@@ -1,0 +1,35 @@
+      .button {
+        margin: 20px;
+      }
+      
+      img {
+        margin: auto;
+        padding: 3px;
+      }
+      
+      .picture {
+        background-color: white;
+        border-radius: 5px;
+      }
+      
+      .middle {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      
+      div > h5 {
+        padding: 10px;
+        max-width: 550px;
+        margin: auto;
+      }
+      
+      ul {
+        margin: auto;
+      }
+      
+      .background {
+        background-color: lightgray;
+        border-radius: 5px;
+        margin: 10px;
+        padding: 30px;
+      }
